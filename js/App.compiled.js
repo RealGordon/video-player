@@ -91,10 +91,10 @@ function _wrapComponent(id) {
 }
 
 var VIDEOS = {
-  fast: 'js/react_video-fast.mp4',
-  slow: 'js/react_video-slow.mp4',
-  cute: 'js/react_video-cute.mp4',
-  eek: 'js/react_video-eek.mp4'
+  fast: 'videos/react_video-fast.mp4',
+  slow: 'videos/react_video-slow.mp4',
+  cute: 'videos/react_video-cute.mp4',
+  eek: 'videos/react_video-eek.mp4'
 };
 
 var App = _wrapComponent('App')(function (_React$Component) {
